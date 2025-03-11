@@ -1,0 +1,101 @@
+Product ID,Product Name,Category,Price ($),Stock Quantity,Sales,Organic,Supplier,Expiry Date
+1,Organic Honey,Seeds,28.35,156,1191,TRUE,Supplier B,2024-06-01 00:00:00
+2,Pumpkin Seeds,Oils,36.64,13,609,TRUE,Supplier B,2024-06-02 00:00:00
+3,Spinach,Supplements,21.36,44,1674,FALSE,Supplier E,2024-06-03 00:00:00
+4,Oats,Vegetables,48.73,201,537,FALSE,Supplier C,2024-06-04 00:00:00
+5,Brown Rice,Seeds,48.31,58,1310,TRUE,Supplier E,2024-06-05 00:00:00
+6,Organic Honey,Seeds,16.33,26,1958,FALSE,Supplier C,2024-06-06 00:00:00
+7,Mushrooms,Nuts,27.38,181,946,FALSE,Supplier C,2024-06-07 00:00:00
+8,Oats,Seeds,18.54,229,1345,FALSE,Supplier B,2024-06-08 00:00:00
+9,Oats,Beverages,17.82,167,1262,FALSE,Supplier D,2024-06-09 00:00:00
+10,Coconut Oil,Fruits,6.66,55,753,FALSE,Supplier A,2024-06-10 00:00:00
+11,Brown Rice,Vegetables,32.43,15,1520,TRUE,Supplier B,2024-06-11 00:00:00
+12,Chia Seeds,Seeds,27.62,108,630,TRUE,Supplier B,2024-06-12 00:00:00
+13,Quinoa,Nuts,7.32,242,839,TRUE,Supplier D,2024-06-13 00:00:00
+14,Turmeric Powder,Beverages,17.54,46,910,FALSE,Supplier A,2024-06-14 00:00:00
+15,Flax Seeds,Grains,45.87,289,296,FALSE,Supplier E,2024-06-15 00:00:00
+16,Quinoa,Fruits,15.78,190,1149,TRUE,Supplier E,2024-06-16 00:00:00
+17,Organic Almonds,Fruits,11.52,104,203,FALSE,Supplier B,2024-06-17 00:00:00
+18,Turmeric Powder,Vegetables,27.03,108,1729,TRUE,Supplier A,2024-06-18 00:00:00
+19,Turmeric Powder,Fruits,49.35,197,1508,TRUE,Supplier B,2024-06-19 00:00:00
+20,Blueberries,Seeds,15.89,125,1046,TRUE,Supplier C,2024-06-20 00:00:00
+21,Kombucha,Nuts,35.25,200,1159,FALSE,Supplier B,2024-06-21 00:00:00
+22,Kale,Fruits,39.27,262,746,FALSE,Supplier B,2024-06-22 00:00:00
+23,Spinach,Fruits,15.69,170,1358,TRUE,Supplier E,2024-06-23 00:00:00
+24,Spinach,Grains,37.77,265,1293,TRUE,Supplier E,2024-06-24 00:00:00
+25,Mushrooms,Grains,21.55,137,1142,TRUE,Supplier E,2024-06-25 00:00:00
+26,Turmeric Powder,Oils,33.45,27,1120,TRUE,Supplier C,2024-06-26 00:00:00
+27,Pumpkin Seeds,Beverages,33.51,290,1058,FALSE,Supplier E,2024-06-27 00:00:00
+28,Chia Seeds,Seeds,29.11,232,143,FALSE,Supplier A,2024-06-28 00:00:00
+29,Green Tea,Fruits,9.06,63,1823,TRUE,Supplier D,2024-06-29 00:00:00
+30,Mushrooms,Supplements,42.59,67,1007,TRUE,Supplier A,2024-06-30 00:00:00
+31,Organic Honey,Fruits,19.44,183,1061,FALSE,Supplier A,2024-07-01 00:00:00
+32,Olive Oil,Nuts,13.39,289,502,FALSE,Supplier E,2024-07-02 00:00:00
+33,Organic Honey,Oils,6.83,123,1277,TRUE,Supplier D,2024-07-03 00:00:00
+34,Avocado,Beverages,31.59,297,961,TRUE,Supplier D,2024-07-04 00:00:00
+35,Coconut Oil,Supplements,35.49,160,267,TRUE,Supplier D,2024-07-05 00:00:00
+36,Protein Bar,Oils,5.75,136,523,FALSE,Supplier C,2024-07-06 00:00:00
+37,Avocado,Vegetables,28.04,164,481,FALSE,Supplier E,2024-07-07 00:00:00
+38,Olive Oil,Beverages,15.19,282,390,FALSE,Supplier D,2024-07-08 00:00:00
+39,Quinoa,Fruits,34.03,113,600,TRUE,Supplier C,2024-07-09 00:00:00
+40,Pumpkin Seeds,Fruits,12.85,255,1685,TRUE,Supplier B,2024-07-10 00:00:00
+41,Spinach,Beverages,36.09,185,1362,FALSE,Supplier B,2024-07-11 00:00:00
+42,Organic Honey,Fruits,22.4,48,1327,FALSE,Supplier C,2024-07-12 00:00:00
+43,Turmeric Powder,Seeds,47.15,179,1807,TRUE,Supplier C,2024-07-13 00:00:00
+44,Brown Rice,Beverages,11.19,256,406,FALSE,Supplier E,2024-07-14 00:00:00
+45,Spinach,Oils,20.35,35,72,FALSE,Supplier E,2024-07-15 00:00:00
+46,Chia Seeds,Beverages,10.11,22,1835,TRUE,Supplier B,2024-07-16 00:00:00
+47,Protein Bar,Supplements,46.61,45,571,FALSE,Supplier D,2024-07-17 00:00:00
+48,Blueberries,Fruits,44.48,182,1831,TRUE,Supplier B,2024-07-18 00:00:00
+49,Coconut Oil,Seeds,16.61,29,1910,TRUE,Supplier D,2024-07-19 00:00:00
+50,Avocado,Seeds,34.7,273,1173,TRUE,Supplier D,2024-07-20 00:00:00
+51,Brown Rice,Vegetables,41.77,151,851,TRUE,Supplier E,2024-07-21 00:00:00
+52,Coconut Oil,Oils,29.98,152,1253,TRUE,Supplier A,2024-07-22 00:00:00
+53,Quinoa,Grains,28.83,101,1296,TRUE,Supplier A,2024-07-23 00:00:00
+54,Flax Seeds,Grains,15.88,297,1979,TRUE,Supplier C,2024-07-24 00:00:00
+55,Kombucha,Beverages,9.19,224,811,FALSE,Supplier E,2024-07-25 00:00:00
+56,Coconut Oil,Vegetables,45.37,60,1732,TRUE,Supplier D,2024-07-26 00:00:00
+57,Avocado,Nuts,45.52,162,491,TRUE,Supplier A,2024-07-27 00:00:00
+58,Turmeric Powder,Beverages,33.49,195,1681,FALSE,Supplier D,2024-07-28 00:00:00
+59,Quinoa,Vegetables,20.26,72,818,FALSE,Supplier A,2024-07-29 00:00:00
+60,Kombucha,Oils,20.71,199,1065,FALSE,Supplier A,2024-07-30 00:00:00
+61,Coconut Oil,Oils,37.67,134,1398,TRUE,Supplier A,2024-07-31 00:00:00
+62,Protein Bar,Oils,45.37,159,565,FALSE,Supplier E,2024-08-01 00:00:00
+63,Kale,Oils,44.92,67,1089,TRUE,Supplier B,2024-08-02 00:00:00
+64,Spinach,Oils,40.09,189,841,TRUE,Supplier D,2024-08-03 00:00:00
+65,Brown Rice,Vegetables,33.89,179,385,TRUE,Supplier E,2024-08-04 00:00:00
+66,Protein Bar,Vegetables,8.79,280,1832,TRUE,Supplier E,2024-08-05 00:00:00
+67,Brown Rice,Seeds,12.27,63,307,FALSE,Supplier E,2024-08-06 00:00:00
+68,Kale,Supplements,45.43,110,546,FALSE,Supplier E,2024-08-07 00:00:00
+69,Almond Milk,Grains,32.29,273,945,TRUE,Supplier E,2024-08-08 00:00:00
+70,Avocado,Fruits,5.41,62,209,TRUE,Supplier C,2024-08-09 00:00:00
+71,Spinach,Oils,9.57,69,1548,TRUE,Supplier D,2024-08-10 00:00:00
+72,Almond Milk,Nuts,34.86,117,901,FALSE,Supplier E,2024-08-11 00:00:00
+73,Olive Oil,Fruits,5.23,14,1737,TRUE,Supplier D,2024-08-12 00:00:00
+74,Spinach,Vegetables,12.24,112,1981,TRUE,Supplier C,2024-08-13 00:00:00
+75,Almond Milk,Nuts,29.69,205,739,FALSE,Supplier C,2024-08-14 00:00:00
+76,Organic Almonds,Nuts,36.14,271,1748,FALSE,Supplier D,2024-08-15 00:00:00
+77,Organic Honey,Nuts,34.34,56,429,TRUE,Supplier A,2024-08-16 00:00:00
+78,Olive Oil,Seeds,15.09,153,1618,FALSE,Supplier B,2024-08-17 00:00:00
+79,Organic Almonds,Vegetables,37.05,278,1006,FALSE,Supplier A,2024-08-18 00:00:00
+80,Turmeric Powder,Nuts,15.68,133,740,TRUE,Supplier A,2024-08-19 00:00:00
+81,Brown Rice,Oils,19.64,115,1500,FALSE,Supplier A,2024-08-20 00:00:00
+82,Oats,Beverages,38.59,167,1686,TRUE,Supplier E,2024-08-21 00:00:00
+83,Mushrooms,Nuts,34.23,156,1341,FALSE,Supplier C,2024-08-22 00:00:00
+84,Blueberries,Seeds,43.22,154,1908,TRUE,Supplier A,2024-08-23 00:00:00
+85,Brown Rice,Fruits,34.59,129,1650,TRUE,Supplier C,2024-08-24 00:00:00
+86,Chia Seeds,Vegetables,30.57,284,1490,TRUE,Supplier D,2024-08-25 00:00:00
+87,Chia Seeds,Supplements,9.22,101,1241,FALSE,Supplier B,2024-08-26 00:00:00
+88,Organic Almonds,Seeds,21.55,67,1915,TRUE,Supplier D,2024-08-27 00:00:00
+89,Green Tea,Nuts,16.93,238,1116,FALSE,Supplier D,2024-08-28 00:00:00
+90,Kombucha,Vegetables,15.98,126,1629,TRUE,Supplier E,2024-08-29 00:00:00
+91,Organic Honey,Beverages,48.79,288,334,TRUE,Supplier B,2024-08-30 00:00:00
+92,Olive Oil,Nuts,22.69,136,446,FALSE,Supplier D,2024-08-31 00:00:00
+93,Organic Honey,Seeds,45.14,138,61,TRUE,Supplier D,2024-09-01 00:00:00
+94,Olive Oil,Grains,33.4,67,1680,TRUE,Supplier B,2024-09-02 00:00:00
+95,Brown Rice,Oils,40.77,131,1375,FALSE,Supplier B,2024-09-03 00:00:00
+96,Turmeric Powder,Supplements,27.62,10,1971,TRUE,Supplier D,2024-09-04 00:00:00
+97,Quinoa,Fruits,30.96,248,1326,TRUE,Supplier B,2024-09-05 00:00:00
+98,Organic Almonds,Seeds,27.16,299,548,TRUE,Supplier D,2024-09-06 00:00:00
+99,Kale,Vegetables,13.79,105,803,TRUE,Supplier D,2024-09-07 00:00:00
+100,Green Tea,Supplements,37.51,135,84,FALSE,Supplier E,2024-09-08 00:00:00
